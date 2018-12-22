@@ -1,0 +1,41 @@
+body {
+    height: 100%;
+    
+
+}
+.navbar-brand{ color: azure;
+
+
+}
+
+section{
+    color: azure;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.navbar-collapse{
+color: azure;
+}
+
+#success_message{ display: none;}
+
+#my{
+width: 45%;
+border:2px solid #ffa64d;
+color:#ffa64d; 
+}
+#my1{
+    width: 45%;
+    }
+
+    .navbar .navbar-nav li a:hover, .navbar .navbar-nav li  a:focus{
+        background-color: #ffa64d;
+    }
+    .fa.fa-navicon {
+  color:white;
+}
+    
+
+
+
+
+
